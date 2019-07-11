@@ -1,1 +1,0 @@
-module.exports = `mongodb+srv://TopDog:qfNP3qUf36qAiy3@groundzero-nwfxk.mongodb.net/local_library?retryWrites=true&w=majority`;
